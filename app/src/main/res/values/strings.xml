@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Event Dicoding</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcomingevent">Upcoming Event</string>
+    <string name="title_finishedevent">Finished Event</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="detail_media_cover">Media Cover</string>
+    <string name="detail_title">Event Title</string>
+    <string name="detail_summary">Event Summary</string>
+    <string name="detail_text_organizer">Organizer:</string>
+    <string name="detail_owner_name">Owner Name</string>
+    <string name="detail_city">City:</string>
+    <string name="detail_city_name">City Name</string>
+    <string name="detail_begin">Begin:</string>
+    <string name="detail_begin_time">Begin Time</string>
+    <string name="detail_end">End:</string>
+    <string name="detail_end_time">End Time</string>
+    <string name="detail_quota">Quota:</string>
+    <string name="detail_event_quota">Event Quota</string>
+    <string name="detail_description">Description: Event Description</string>
+    <string name="detail_link_button">Registrasi</string>
+    <string name="search_result">Result: 0</string>
+    <string name="main_title">Dicoding Event</string>
+    <string name="main_upcoming_event">Upcoming Events</string>
+    <string name="main_finished_event">Finished Events</string>
+    <string name="item_category">Category</string>
+    <string name="item_title">Event Title</string>
+    <string name="title_search">Search</string>
+    <string name="favorite_icon">Favorite Icon Description</string>
+    <!-- Preference Titles -->
+    <string name="notification_header">Notification</string>
+    <string name="themes_header">Themes</string>
+
+    <!-- Messages Preferences -->
+    <string name="themes_title">Dark Mode</string>
+    <string name="notification_title">Notification</string>
+    <string name="title_settings">Settings</string>
+</resources>
